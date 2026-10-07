@@ -1,0 +1,517 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Eventos 4 Dazn 4" tvg-logo="https://espnpressroom.com/latinamerica/files/2022/03/STAR_CampeonatoUruguayo_mz.jpg" group-title="DEPORTES", Eventos 4 Dazn 4
+http://planettvweb.com:8091/Luissilvera/luis92760641/14405
+
+#EXTINF:-1 tvg-id="--------DEPORTES-------" tvg-logo="https://www.iptvmexico.com.mx/wp-content/uploads/2017/10/iptv-player-latino.jpg?x80798" group-title="DEPORTES", --------DEPORTES-------
+http://planettvweb.com:8091/Luissilvera/luis92760641/12813
+
+#EXTINF:-1 tvg-id="Directv Sports 1 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES", Directv Sports 1 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12739
+
+#EXTINF:-1 tvg-id="Directv Sport 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="DEPORTES", Directv Sport 2 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12042
+
+#EXTINF:-1 tvg-id="Directv Sport +" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES", Directv Sport +
+http://planettvweb.com:8091/Luissilvera/luis92760641/12738
+
+#EXTINF:-1 tvg-id="Directv Sports 1 SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES", Directv Sports 1 SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12019
+
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM SUR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES", FOX SPORTS PREMIUM SUR
+http://planettvweb.com:8091/Luissilvera/luis92760641/20321
+
+#EXTINF:-1 tvg-id="TYC SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES", TYC SPORTS SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/20322
+
+#EXTINF:-1 tvg-id="Fox Deportes HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES", Fox Deportes HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12041
+
+#EXTINF:-1 tvg-id="TNT SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png" group-title="DEPORTES", TNT SPORTS SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12004
+
+#EXTINF:-1 tvg-id="ESPN SD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="DEPORTES", ESPN SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11851
+
+#EXTINF:-1 tvg-id="ESPN 2 SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES", ESPN 2 SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11850
+
+#EXTINF:-1 tvg-id="ESPN 3  SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES", ESPN 3  SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11849
+
+#EXTINF:-1 tvg-id="Espn 4 SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES", Espn 4 SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/21456
+
+#EXTINF:-1 tvg-id="ESPN 5 SUR" tvg-logo="https://iili.io/BEUKlmx.png" group-title="DEPORTES", ESPN 5 SUR
+http://planettvweb.com:8091/Luissilvera/luis92760641/17719
+
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="noimage.png" group-title="DEPORTES", ESPN 6
+http://planettvweb.com:8091/Luissilvera/luis92760641/92313
+
+#EXTINF:-1 tvg-id="ESPN 7 SUR" tvg-logo="https://img.utdstc.com/icons/tigo-sports-android.png:l" group-title="DEPORTES", ESPN 7 SUR
+http://planettvweb.com:8091/Luissilvera/luis92760641/17720
+
+#EXTINF:-1 tvg-id="ESPN Colombia HD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="DEPORTES", ESPN Colombia HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/20323
+
+#EXTINF:-1 tvg-id="ESPN 2 HD Colombia" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES", ESPN 2 HD Colombia
+http://planettvweb.com:8091/Luissilvera/luis92760641/11905
+
+#EXTINF:-1 tvg-id="ESPN 2 CHILE" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES", ESPN 2 CHILE
+http://planettvweb.com:8091/Luissilvera/luis92760641/11966
+
+#EXTINF:-1 tvg-id="ESPN 3 CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg" group-title="DEPORTES", ESPN 3 CHILE
+http://planettvweb.com:8091/Luissilvera/luis92760641/11917
+
+#EXTINF:-1 tvg-id="ESPN 5 HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALkAAAC5CAMAAABDc25uAAAAh1BMVEX////tHCT95ebvOUDtICfvMDj0cHX/+/vyX2T0eX32kpX+8PD83N7wSE7vNz7uKC/wP0X7z9H+9vb5tbjuJi3xUVjyVlz81tf5urz7x8n+8fH96+vvNDv1gYbwQUj4oqXzanD2iY33nKD5r7L4p6r2j5P0dXrzbHH6w8XzY2n3n6LxU1n1f4OBJvWDAAAD9klEQVR4nO2Y3ZaiMBCEAyKoiIriv6go46jj+z/fhnGHbpPQzroXs2dPfXdKE4qku9JBKQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOC/ZN4OmulWEatJOBoKQW7aSTGv7o46DQFZa7+IuBI/aTeT2MqXmdfMmw5IL1KExKjUyuKkOWB4i5mSdCiM5VB+DIT4Ur/Z6EXdlbKJnsmBEBDkbNYXkpK9rbwnDbzQS/ii6k8+VvJMeu2UlJRSYGErvwnhw1QdpIl4ih5AnEnPO5CSQggLSkt4dBHiB340e0Eve+BEnknPu5GUkxA2PFvKx1MhPlmt/yLLNcFRvckRpDzqCGGbuaXcl6TNon77FcE1wVmcSe/uXnckE/K2a0t5P2k1k6t0K1x+TjJXJzniSHNIJpRZdr4f23nuC8RqLF3+BpFaywGkiJlQt2/iW8L/IZgJ7X5ay5+xo+pYfCe+DJvp+urQcOlUHO8LmAr3h+FRzelHrWdc1P8VlC0FKT/1OOUytnXLdr7xo2bPDEaH6qkH4X7P63E7r3OA1eKUlIeNo2RJaRfoEzsffwiXg0I3HbkkXNs5NReUA3Oy2nf1DeVae2FJF3eaThTtJWHDpVLvYkCquvzHb87UfOYkRZyD7GgqF3eaUD1pW3I1FruD6Ypl46B2NtaesrZFbFq9malc7M4L9aRV7ETrrXBZN7kruj+p64xl0IQtv5S43tBULr5oVVLLRIjQ3cGm+eroGCm/xYK/HkrtacaaXJVKsxSYyskagqRjsqwi/DI0/qYEu/CNb/QYddr11UMxhl/PZBm06XMxfq+TPEJ3W3NOZZEtI5P6UQ+saFW7asJS1nUzK8b6bMD8zGykolX8ABnEyBDOvKPdV9+D2VFPXWnNJq7go2NLZwPMbJ9+kEf1b1Yo82tHH+mG7EgfVApaztQV7LLzvtPOXcRU/6FxyadL7VPXYKf83PxPc6mnMTszO98418xl50tHBik16dnkVEVvxsBz2c5Fz6wSjC2nc814Mbrs/FpHipu5Yyc6SwfzgtefiyRmy+lMWVbNZOfMz6g2xI3h8RvBJ6Vs53I75e0Vs3NnyrKzItk5+RmrjSfHxsRcUel4q0tKbCWqforZueODiNvOFfkZq40niXkzR5b6Mz0hYr/ldWKeTldz7AqnnTv9TE7MgXX0l5rYTV/scb2pnrCX7NxZG1dPoG0P3hLCt7HQAgeDvPIKtgW/YufMpItmIdnM/kykWsJ330vU+Fl4e+ndly8ffJE47byob2nVb5bSQ5lJN+VtNgonrsMcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH6SX/xnR8CAFpE7AAAAAElFTkSuQmCC" group-title="DEPORTES", ESPN 5 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12030
+
+#EXTINF:-1 tvg-id="ESPN Deportes HD" tvg-logo="https://library.kissclipart.com/20180924/bwq/kissclipart-espn-deportes-logo-clipart-espn-deportes-sports-93892b78a6709a4f.png" group-title="DEPORTES", ESPN Deportes HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11913
+
+#EXTINF:-1 tvg-id="FUTBOL DE ECUADOR" tvg-logo="https://image.roku.com/channels/images/74f6f40197334ad6b7fdb78439e35d5a-hd.jpg" group-title="DEPORTES", FUTBOL DE ECUADOR
+http://planettvweb.com:8091/Luissilvera/luis92760641/16963
+
+#EXTINF:-1 tvg-id="DeporTV HD" tvg-logo="http://descargas.podzone.net/logos/-deportv.png" group-title="DEPORTES", DeporTV HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11893
+
+#EXTINF:-1 tvg-id="CLARO SPORT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg" group-title="DEPORTES", CLARO SPORT SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11998
+
+#EXTINF:-1 tvg-id="CLARO SPORT 2 HD" tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES", CLARO SPORT 2 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11922
+
+#EXTINF:-1 tvg-id="Ufc (Ufc Fight Pass)" tvg-logo="http://descargas.podzone.net/logos/-UFC-FIGHT-PASS.png" group-title="DEPORTES", Ufc (Ufc Fight Pass)
+http://planettvweb.com:8091/Luissilvera/luis92760641/12003
+
+#EXTINF:-1 tvg-id="ESTADIO TNT SPORTS CHILE SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="DEPORTES", ESTADIO TNT SPORTS CHILE SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12044
+
+#EXTINF:-1 tvg-id="CL Estadio TNT Sports 1 HD" tvg-logo="http://3.bp.blogspot.com/-JFht_TGbcTI/UZbtz3tpUII/AAAAAAAAAog/9ufu15mKjcA/s1600/cdf+premium+nuevo.png" group-title="DEPORTES", CL Estadio TNT Sports 1 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12001
+
+#EXTINF:-1 tvg-id="CL Estadio TNT Sports 2 HD" tvg-logo="http://3.bp.blogspot.com/-G2-4yYvvcEE/UhECiUQcGMI/AAAAAAAAOmo/a6UhoJrISyg/s1600/cdf+premium+NUEVO.png" group-title="DEPORTES", CL Estadio TNT Sports 2 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12045
+
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-3.png" group-title="DEPORTES", ESTADIO TNT SPORTS CHILE HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/21813
+
+#EXTINF:-1 tvg-id="GOL PERU" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES", GOL PERU
+http://planettvweb.com:8091/Luissilvera/luis92760641/12741
+
+#EXTINF:-1 tvg-id="TUDN" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES", TUDN
+http://planettvweb.com:8091/Luissilvera/luis92760641/20318
+
+#EXTINF:-1 tvg-id="Azteca Deportes" tvg-logo="http://descargas.podzone.net/logos/-azteca.png" group-title="DEPORTES", Azteca Deportes
+http://planettvweb.com:8091/Luissilvera/luis92760641/12020
+
+#EXTINF:-1 tvg-id="Red Bull (Red Bull Sports)" tvg-logo="http://149.104.90.177/eventos14/logo.png" group-title="DEPORTES", Red Bull (Red Bull Sports)
+http://planettvweb.com:8091/Luissilvera/luis92760641/14841
+
+#EXTINF:-1 tvg-id="MOTO GP RACING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="DEPORTES", MOTO GP RACING
+http://planettvweb.com:8091/Luissilvera/luis92760641/14787
+
+#EXTINF:-1 tvg-id="TV Max" tvg-logo="https://w1.pngwing.com/pngs/235/101/png-transparent-green-grass-tvmax-television-logo-television-channel-television-show-tvn-claro-tv-thumbnail.png" group-title="DEPORTES", TV Max
+http://planettvweb.com:8091/Luissilvera/luis92760641/20320
+
+#EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="DEPORTES", SKY SPORTS F1
+http://planettvweb.com:8091/Luissilvera/luis92760641/40365
+
+#EXTINF:-1 tvg-id="Sky Bundesliga" tvg-logo="http://149.104.90.177/eventos14/logo.png" group-title="DEPORTES", Sky Bundesliga
+http://planettvweb.com:8091/Luissilvera/luis92760641/23240
+
+#EXTINF:-1 tvg-id="TENNIS CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title="DEPORTES", TENNIS CHANNEL
+http://planettvweb.com:8091/Luissilvera/luis92760641/11845
+
+#EXTINF:-1 tvg-id="Wwb (Wwb Beisbol Latino)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES", Wwb (Wwb Beisbol Latino)
+http://planettvweb.com:8091/Luissilvera/luis92760641/21462
+
+#EXTINF:-1 tvg-id="Hi Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES", Hi Sports
+http://planettvweb.com:8091/Luissilvera/luis92760641/16535
+
+#EXTINF:-1 tvg-id="Tvcd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES", Tvcd
+http://planettvweb.com:8091/Luissilvera/luis92760641/16536
+
+#EXTINF:-1 tvg-id="Bein Sports N HD" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES", Bein Sports N HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11970
+
+#EXTINF:-1 tvg-id="Bein Sports Us" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES", Bein Sports Us
+http://planettvweb.com:8091/Luissilvera/luis92760641/21458
+
+#EXTINF:-1 tvg-id="Bein Sports Xtra" tvg-logo="noimage.png" group-title="DEPORTES", Bein Sports Xtra
+http://planettvweb.com:8091/Luissilvera/luis92760641/16965
+
+#EXTINF:-1 tvg-id="NASCAR" tvg-logo="https://pbs.twimg.com/profile_images/1374024780249239556/UieJZSab_400x400.jpg" group-title="DEPORTES", NASCAR
+http://planettvweb.com:8091/Luissilvera/luis92760641/41756
+
+#EXTINF:-1 tvg-id="GOL TV ECUADOR HD" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES", GOL TV ECUADOR HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11971
+
+#EXTINF:-1 tvg-id="GOL TV HD" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES", GOL TV HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11965
+
+#EXTINF:-1 tvg-id="Tigo Sport HD" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png" group-title="DEPORTES", Tigo Sport HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/16537
+
+#EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://www.digitaltveurope.com/files/2023/03/Screenshot-2023-03-08-at-12.33.41.png" group-title="DEPORTES", FIFA+
+http://planettvweb.com:8091/Luissilvera/luis92760641/20319
+
+#EXTINF:-1 tvg-id="DAZN 1 ALEMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/1280px-Sky_Sport_F1_-_Logo_2018.svg.png" group-title="DEPORTES", DAZN 1 ALEMAN
+http://planettvweb.com:8091/Luissilvera/luis92760641/11976
+
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES", DAZN F1
+http://planettvweb.com:8091/Luissilvera/luis92760641/16967
+
+#EXTINF:-1 tvg-id="GOLF CHANNEL HD" tvg-logo="http://descargas.podzone.net/logos/-NBC-GOLF-CHANNEL.png" group-title="DEPORTES", GOLF CHANNEL HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11889
+
+#EXTINF:-1 tvg-id="Win Sports Plus SD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES", Win Sports Plus SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/38586
+
+#EXTINF:-1 tvg-id="Win Sports Plus HD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES", Win Sports Plus HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/38587
+
+#EXTINF:-1 tvg-id="WIN SPORT HD_" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES", WIN SPORT HD_
+http://planettvweb.com:8091/Luissilvera/luis92760641/12445
+
+#EXTINF:-1 tvg-id="CL TNT Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES", CL TNT Sports FHD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12011
+
+#EXTINF:-1 tvg-id="DAZN 1 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES", DAZN 1 FHD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12043
+
+#EXTINF:-1 tvg-id="DAZN 2 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES", DAZN 2 FHD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11975
+
+#EXTINF:-1 tvg-id="Bellator MMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png" group-title="DEPORTES", Bellator MMA
+http://planettvweb.com:8091/Luissilvera/luis92760641/41757
+
+#EXTINF:-1 tvg-id="GLORY KICKBOXING" tvg-logo="https://ih1.redbubble.net/image.2247655092.2658/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg" group-title="DEPORTES", GLORY KICKBOXING
+http://planettvweb.com:8091/Luissilvera/luis92760641/16964
+
+#EXTINF:-1 tvg-id="MLS 07: Onesoccer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES", MLS 07: Onesoccer
+http://planettvweb.com:8091/Luissilvera/luis92760641/14403
+
+#EXTINF:-1 tvg-id="MLS 04:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES", MLS 04:
+http://planettvweb.com:8091/Luissilvera/luis92760641/11977
+
+#EXTINF:-1 tvg-id="Adrenalina" tvg-logo="https://st1.uvnimg.com/79/61/506658634ddc88e13a6bd123364d/tudnxtra-logo.jpg" group-title="DEPORTES", Adrenalina
+http://planettvweb.com:8091/Luissilvera/luis92760641/83260
+
+#EXTINF:-1 tvg-id="TUDNXTRA 2" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES", TUDNXTRA 2
+http://planettvweb.com:8091/Luissilvera/luis92760641/83261
+
+#EXTINF:-1 tvg-id="TUDNXTRA 3" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES", TUDNXTRA 3
+http://planettvweb.com:8091/Luissilvera/luis92760641/83262
+
+#EXTINF:-1 tvg-id="Claro Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2024_Summer_Olympics_text_logo.svg/800px-2024_Summer_Olympics_text_logo.svg.png" group-title="DEPORTES", Claro Sports 3 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/102996
+
+#EXTINF:-1 tvg-id="-------------ARGENTINA---------------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" group-title="ARGENTINA", -------------ARGENTINA---------------
+http://planettvweb.com:8091/Luissilvera/luis92760641/12809
+
+#EXTINF:-1 tvg-id="AMERICA SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA", AMERICA SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11866
+
+#EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA", AMERICA
+http://planettvweb.com:8091/Luissilvera/luis92760641/28071
+
+#EXTINF:-1 tvg-id="TELEFE INTERNACIONAL SD" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA", TELEFE INTERNACIONAL SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11858
+
+#EXTINF:-1 tvg-id="TELEFE SD 1" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA", TELEFE SD 1
+http://planettvweb.com:8091/Luissilvera/luis92760641/11840
+
+#EXTINF:-1 tvg-id="TV PUBLICA SD" tvg-logo="http://descargas.podzone.net/logos/-tv-publica.png" group-title="ARGENTINA", TV PUBLICA SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/14415
+
+#EXTINF:-1 tvg-id="C5N" tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA", C5N
+http://planettvweb.com:8091/Luissilvera/luis92760641/11863
+
+#EXTINF:-1 tvg-id="CANAL 9 SD" tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA", CANAL 9 SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11859
+
+#EXTINF:-1 tvg-id="TN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA", TN SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11839
+
+#EXTINF:-1 tvg-id="LN+ SD" tvg-logo="http://descargas.podzone.net/logos/-LN+.png" group-title="ARGENTINA", LN+ SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11878
+
+#EXTINF:-1 tvg-id="CANAL 13 SD" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA", CANAL 13 SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11862
+
+#EXTINF:-1 tvg-id="Canal 13 Internacional" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA", Canal 13 Internacional
+http://planettvweb.com:8091/Luissilvera/luis92760641/12443
+
+#EXTINF:-1 tvg-id="A 24 SD" tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA", A 24 SD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11865
+
+#EXTINF:-1 tvg-id="ARGENTINISIMA" tvg-logo="http://television.com.ar/wp-content/uploads/2010/07/ARGENTINISIMA-.jpg" group-title="ARGENTINA", ARGENTINISIMA
+http://planettvweb.com:8091/Luissilvera/luis92760641/11864
+
+#EXTINF:-1 tvg-id="CINEAR HD" tvg-logo="http://pensilvaniafilms.com/wp-content/uploads/2017/10/CINEAR.png" group-title="ARGENTINA", CINEAR HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11897
+
+#EXTINF:-1 tvg-id="C5N HD" tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA", C5N HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11902
+
+#EXTINF:-1 tvg-id="A 24 HD" tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA", A 24 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11903
+
+#EXTINF:-1 tvg-id="AMERICA HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA", AMERICA HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11904
+
+#EXTINF:-1 tvg-id="CANAL 9 HD" tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA", CANAL 9 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11899
+
+#EXTINF:-1 tvg-id="CANAL 13 HD" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA", CANAL 13 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11901
+
+#EXTINF:-1 tvg-id="CRONICA TV HD" tvg-logo="http://descargas.podzone.net/logos/-cronica.png" group-title="ARGENTINA", CRONICA TV HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11894
+
+#EXTINF:-1 tvg-id="CANAL 26 HD" tvg-logo="http://descargas.podzone.net/logos/-canal-26.png" group-title="ARGENTINA", CANAL 26 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11900
+
+#EXTINF:-1 tvg-id="TELEFE HD" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA", TELEFE HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11879
+
+#EXTINF:-1 tvg-id="TELEFE HD ARG" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA", TELEFE HD ARG
+http://planettvweb.com:8091/Luissilvera/luis92760641/16274
+
+#EXTINF:-1 tvg-id="TN HD" tvg-logo="http://descargas.podzone.net/logos/-TN-argentina.png" group-title="ARGENTINA", TN HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11874
+
+#EXTINF:-1 tvg-id="ENCUENTRO HD" tvg-logo="http://descargas.podzone.net/logos/-encuentro.png" group-title="ARGENTINA", ENCUENTRO HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11892
+
+#EXTINF:-1 tvg-id="METRO HD" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2263.png" group-title="ARGENTINA", METRO HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11884
+
+#EXTINF:-1 tvg-id="LN+" tvg-logo="http://descargas.podzone.net/logos/-LN+.png" group-title="ARGENTINA", LN+
+http://planettvweb.com:8091/Luissilvera/luis92760641/14186
+
+#EXTINF:-1 tvg-id="VOLVER" tvg-logo="http://descargas.podzone.net/logos/-volver.png" group-title="ARGENTINA", VOLVER
+http://planettvweb.com:8091/Luissilvera/luis92760641/11868
+
+#EXTINF:-1 tvg-id="-------DEPORTES ARGENTINA HD-------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" group-title="DEPORTES ARGENTINA HD", -------DEPORTES ARGENTINA HD-------
+http://planettvweb.com:8091/Luissilvera/luis92760641/14306
+
+#EXTINF:-1 tvg-id="ESPN SUR" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD", ESPN SUR
+http://planettvweb.com:8091/Luissilvera/luis92760641/20324
+
+#EXTINF:-1 tvg-id="ESPN 2 SUR_" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD", ESPN 2 SUR_
+http://planettvweb.com:8091/Luissilvera/luis92760641/20325
+
+#EXTINF:-1 tvg-id="ESPN 3 SUR" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD", ESPN 3 SUR
+http://planettvweb.com:8091/Luissilvera/luis92760641/20326
+
+#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD", ESPN 4 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/21457
+
+#EXTINF:-1 tvg-id="ESPN ARG HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD", ESPN ARG HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12755
+
+#EXTINF:-1 tvg-id="ESPN 2 HD ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD", ESPN 2 HD ARG
+http://planettvweb.com:8091/Luissilvera/luis92760641/11996
+
+#EXTINF:-1 tvg-id="ESPN 3 HD ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD", ESPN 3 HD ARG
+http://planettvweb.com:8091/Luissilvera/luis92760641/11915
+
+#EXTINF:-1 tvg-id="ESPN 4 ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD", ESPN 4 ARG
+http://planettvweb.com:8091/Luissilvera/luis92760641/11698
+
+#EXTINF:-1 tvg-id="ESPN PREMIUM ARG" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD", ESPN PREMIUM ARG
+http://planettvweb.com:8091/Luissilvera/luis92760641/14637
+
+#EXTINF:-1 tvg-id="FOX SPORTS HD SUR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS HD SUR
+http://planettvweb.com:8091/Luissilvera/luis92760641/11702
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS 2 SUR HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/20328
+
+#EXTINF:-1 tvg-id="FOX SPORTS 3 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS 3 SUR HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/20329
+
+#EXTINF:-1 tvg-id="TYC SPORT HD" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD", TYC SPORT HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12040
+
+#EXTINF:-1 tvg-id="TYC SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Torneos.png/220px-Torneos.png" group-title="DEPORTES ARGENTINA HD", TYC SPORTS 2
+http://planettvweb.com:8091/Luissilvera/luis92760641/20327
+
+#EXTINF:-1 tvg-id="TYC SPORTS INTERNACIONAL" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD", TYC SPORTS INTERNACIONAL
+http://planettvweb.com:8091/Luissilvera/luis92760641/16278
+
+#EXTINF:-1 tvg-id="TNT SPORT HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/85/0a/8e/850a8ec7-928c-bd47-6e60-81ca3a9d97c9/source/512x512bb.jpg" group-title="DEPORTES ARGENTINA HD", TNT SPORT HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11873
+
+#EXTINF:-1 tvg-id="ESPN PREMIUN" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD", ESPN PREMIUN
+http://planettvweb.com:8091/Luissilvera/luis92760641/16453
+
+#EXTINF:-1 tvg-id="------DEPORTES ESPAÑA------" tvg-logo="noimage.png" group-title="DEPORTES ESPAÑA", ------DEPORTES ESPAÑA------
+http://planettvweb.com:8091/Luissilvera/luis92760641/12836
+
+#EXTINF:-1 tvg-id="BEIN SPORT SP" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES ESPAÑA", BEIN SPORT SP
+http://planettvweb.com:8091/Luissilvera/luis92760641/12051
+
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES ESPAÑA", DAZN 4
+http://planettvweb.com:8091/Luissilvera/luis92760641/19995
+
+#EXTINF:-1 tvg-id="CANAL EURO SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", CANAL EURO SPORTS HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12497
+
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", EUROSPORT 2
+http://planettvweb.com:8091/Luissilvera/luis92760641/14263
+
+#EXTINF:-1 tvg-id="Dazn La lig@" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn La lig@
+http://planettvweb.com:8091/Luissilvera/luis92760641/11910
+
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="DEPORTES ESPAÑA", IBERALIA TV
+http://planettvweb.com:8091/Luissilvera/luis92760641/12113
+
+#EXTINF:-1 tvg-id="CAZA Y PESCA HD" tvg-logo="http://descargas.podzone.net/logos/-CAZA-Y-PESCA.png" group-title="DEPORTES ESPAÑA", CAZA Y PESCA HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11909
+
+#EXTINF:-1 tvg-id="Dazn Lalig@ 2 HD" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn Lalig@ 2 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12498
+
+#EXTINF:-1 tvg-id="ESP LIG@ HD" tvg-logo="https://www.newdelhitimes.com/wp-content/uploads/2016/09/La_Liga_logotip.jpg" group-title="DEPORTES ESPAÑA", ESP LIG@ HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/12050
+
+#EXTINF:-1 tvg-id="Sky Sports La liga" tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2021/11/Sky-Sports-acquire-La-Liga-rights-for-Mexico-and-Central-America.jpg" group-title="DEPORTES ESPAÑA", Sky Sports La liga
+http://planettvweb.com:8091/Luissilvera/luis92760641/12115
+
+#EXTINF:-1 tvg-id="Fox Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png" group-title="DEPORTES ESPAÑA", Fox Deportes
+http://planettvweb.com:8091/Luissilvera/luis92760641/12116
+
+#EXTINF:-1 tvg-id="MOVISTAR DEPORTES" tvg-logo="https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes.png" group-title="DEPORTES ESPAÑA", MOVISTAR DEPORTES
+http://planettvweb.com:8091/Luissilvera/luis92760641/12049
+
+#EXTINF:-1 tvg-id="MOVISTAR F1" tvg-logo="https://static.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg" group-title="DEPORTES ESPAÑA", MOVISTAR F1
+http://planettvweb.com:8091/Luissilvera/luis92760641/12048
+
+#EXTINF:-1 tvg-id="MOVISTAR LIG@ CAMPEONES HEVC" tvg-logo="https://i.blogs.es/3316aa/movistar/450_1000.jpg" group-title="DEPORTES ESPAÑA", MOVISTAR LIG@ CAMPEONES HEVC
+http://planettvweb.com:8091/Luissilvera/luis92760641/16288
+
+#EXTINF:-1 tvg-id="MOVISTAR GOLF" tvg-logo="noimage.png" group-title="DEPORTES ESPAÑA", MOVISTAR GOLF
+http://planettvweb.com:8091/Luissilvera/luis92760641/12047
+
+#EXTINF:-1 tvg-id="Movistar Deportes 2 HD" tvg-logo="https://p.kindpng.com/picc/s/286-2863527_movistar-formula-1-logo-hd-png-download.png" group-title="DEPORTES ESPAÑA", Movistar Deportes 2 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/22347
+
+#EXTINF:-1 tvg-id="MOVISTAR VAMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="DEPORTES ESPAÑA", MOVISTAR VAMOS
+http://planettvweb.com:8091/Luissilvera/luis92760641/12102
+
+#EXTINF:-1 tvg-id="TELEDEPORTES HD" tvg-logo="noimage.png" group-title="DEPORTES ESPAÑA", TELEDEPORTES HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/14264
+
+#EXTINF:-1 tvg-id="------MUSICA-------" tvg-logo="https://sinfoniafantastica.wordpress.com/files/2008/08/musica.jpg" group-title="MUSICA", ------MUSICA-------
+http://planettvweb.com:8091/Luissilvera/luis92760641/12815
+
+#EXTINF:-1 tvg-id="HTV  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_HTV_2009.jpg" group-title="MUSICA", HTV  HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11887
+
+#EXTINF:-1 tvg-id="V Classic TV" tvg-logo="http://www.brandemia.org/wp-content/uploads/2013/01/VH1_Marca.jpg" group-title="MUSICA", V Classic TV
+http://planettvweb.com:8091/Luissilvera/luis92760641/12028
+
+#EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://edakalkay.com/wp-content/uploads/2018/02/mtv-logo-440x300.png" group-title="MUSICA", MTV HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11831
+
+#EXTINF:-1 tvg-id="MTV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MTV_HITS_logo.svg/493px-MTV_HITS_logo.svg.png" group-title="MUSICA", MTV HITS
+http://planettvweb.com:8091/Luissilvera/luis92760641/11832
+
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="http://teve.ba/img/articles/1916.jpg" group-title="MUSICA", MTV LIVE
+http://planettvweb.com:8091/Luissilvera/luis92760641/11833
+
+#EXTINF:-1 tvg-id="VClassic Tv Musica" tvg-logo="noimage.png" group-title="MUSICA", VClassic Tv Musica
+http://planettvweb.com:8091/Luissilvera/luis92760641/13013
+
+#EXTINF:-1 tvg-id="Vh1 Classic 70" tvg-logo="https://i.pinimg.com/736x/f0/8b/25/f08b25168774dabf50e99a5c1df2e256.jpg" group-title="MUSICA", Vh1 Classic 70
+http://planettvweb.com:8091/Luissilvera/luis92760641/41483
+
+#EXTINF:-1 tvg-id="VH1 HD" tvg-logo="http://media.biobiochile.cl/wp-content/uploads/2013/01/enhanced-buzz-5616-1357604647-0.jpg" group-title="MUSICA", VH1 HD
+http://planettvweb.com:8091/Luissilvera/luis92760641/11870
+
+#EXTINF:-1 tvg-id="VH1 MEGAHITS Retros" tvg-logo="https://www.pngkey.com/png/detail/272-2722165_logo-vh1-mega-hits-vh1-mega-hits-logo.png" group-title="MUSICA", VH1 MEGAHITS Retros
+http://planettvweb.com:8091/Luissilvera/luis92760641/11869
+
+#EXTINF:-1 tvg-id="Urbano TV" tvg-logo="https://image.roku.com/developer_channels/prod/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png" group-title="MUSICA", Urbano TV
+http://planettvweb.com:8091/Luissilvera/luis92760641/11881
+
+#EXTINF:-1 tvg-id="Stingray Pop Adult" tvg-logo="noimage.png" group-title="MUSICA", Stingray Pop Adult
+http://planettvweb.com:8091/Luissilvera/luis92760641/88244
+
+#EXTINF:-1 tvg-id="Stingray Naturescape" tvg-logo="noimage.png" group-title="MUSICA", Stingray Naturescape
+http://planettvweb.com:8091/Luissilvera/luis92760641/88245
+
+#EXTINF:-1 tvg-id="Stingray Hot Country" tvg-logo="noimage.png" group-title="MUSICA", Stingray Hot Country
+http://planettvweb.com:8091/Luissilvera/luis92760641/88246
+
+#EXTINF:-1 tvg-id="Stingray Hits Lis" tvg-logo="noimage.png" group-title="MUSICA", Stingray Hits Lis
+http://planettvweb.com:8091/Luissilvera/luis92760641/88247
+
+#EXTINF:-1 tvg-id="Stingray HipHop & RB" tvg-logo="noimage.png" group-title="MUSICA", Stingray HipHop & RB
+http://planettvweb.com:8091/Luissilvera/luis92760641/88248
+
+#EXTINF:-1 tvg-id="Stingray Flashback 70s" tvg-logo="noimage.png" group-title="MUSICA", Stingray Flashback 70s
+http://planettvweb.com:8091/Luissilvera/luis92760641/88249
+
+#EXTINF:-1 tvg-id="Stingray Exitos del momento" tvg-logo="noimage.png" group-title="MUSICA", Stingray Exitos del momento
+http://planettvweb.com:8091/Luissilvera/luis92760641/88250
+
+#EXTINF:-1 tvg-id="Stingray Classic Rock" tvg-logo="noimage.png" group-title="MUSICA", Stingray Classic Rock
+http://planettvweb.com:8091/Luissilvera/luis92760641/88251
+
+#EXTINF:-1 tvg-id="Stingray Alternative" tvg-logo="noimage.png" group-title="MUSICA", Stingray Alternative
+http://planettvweb.com:8091/Luissilvera/luis92760641/88252
+
+#EXTINF:-1 tvg-id="Stingray ACMAs" tvg-logo="noimage.png" group-title="MUSICA", Stingray ACMAs
+http://planettvweb.com:8091/Luissilvera/luis92760641/88253
+
+#EXTINF:-1 tvg-id="Stingray ACMAs" tvg-logo="noimage.png" group-title="MUSICA", Stingray ACMAs
+http://planettvweb.com:8091/Luissilvera/luis92760641/88254
+
+#EXTINF:-1 tvg-id="Stingray Alternative" tvg-logo="noimage.png" group-title="MUSICA", Stingray Alternative
+http://planettvweb.com:8091/Luissilvera/luis92760641/88255
+
+#EXTINF:-1 tvg-id="Stingray Classic Rock" tvg-logo="noimage.png" group-title="MUSICA", Stingray Classic Rock
+http://planettvweb.com:8091/Luissilvera/luis92760641/88256
+
+#EXTINF:-1 tvg-id="Stingray Exitos del momento" tvg-logo="noimage.png" group-title="MUSICA", Stingray Exitos del momento
+http://planettvweb.com:8091/Luissilvera/luis92760641/88257
+
+#EXTINF:-1 tvg-id="Stingray Flashback 70s" tvg-logo="noimage.png" group-title="MUSICA", Stingray Flashback 70s
+http://planettvweb.com:8091/Luissilvera/luis92760641/88258
+
+#EXTINF:-1 tvg-id="Stingray HipHop & RB" tvg-logo="noimage.png" group-title="MUSICA", Stingray HipHop & RB
+http://planettvweb.com:8091/Luissilvera/luis92760641/88259
+
+#EXTINF:-1 tvg-id="Stingray Hits Lis" tvg-logo="noimage.png" group-title="MUSICA", Stingray Hits Lis
+http://planettvweb.com:8091/Luissilvera/luis92760641/88260
+
+#EXTINF:-1 tvg-id="Stingray Hot Country" tvg-logo="noimage.png" group-title="MUSICA", Stingray Hot Country
+http://planettvweb.com:8091/Luissilvera/luis92760641/88261
+
+#EXTINF:-1 tvg-id="Stingray Naturescape" tvg-logo="noimage.png" group-title="MUSICA", Stingray Naturescape
+http://planettvweb.com:8091/Luissilvera/luis92760641/88262
+
+#EXTINF:-1 tvg-id="Stingray Pop Adult" tvg-logo="noimage.png" group-title="MUSICA", Stingray Pop Adult
+http://planettvweb.com:8091/Luissilvera/luis92760641/88263
+
+#EXTINF:-1 tvg-id="Stingray Remember the 80s" tvg-logo="noimage.png" group-title="MUSICA", Stingray Remember the 80s
+http://planettvweb.com:8091/Luissilvera/luis92760641/88264
+
+#EXTINF:-1 tvg-id="Mtv Club" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2020/07/BET-Her.jpeg" group-title="MUSICA", Mtv Club
+http://planettvweb.com:8091/Luissilvera/luis92760641/23085
+
+#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://images.squarespace-cdn.com/content/v1/5595c0fce4b0eb5f837a1160/1538248053105-5YP056F81RBWJ3IXDAXE/ke17ZwdGBToddI8pDm48kFQQgP34qnCpeHaeAOzTt7pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PICHnXC1b9smDvYLPdL-DS7U1pkhCtl83kemXd5r3C5ngKMshLAGzx4R3EDFOm1kBS/MTVU+logo.jpg" group-title="MUSICA", MTV 00s
+http://planettvweb.com:8091/Luissilvera/luis92760641/23088
+
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MTV_2_Logo.svg/1200px-MTV_2_Logo.svg.png" group-title="MUSICA", MTV 80s
+http://planettvweb.com:8091/Luissilvera/luis92760641/23089
+
+#EXTINF:-1 tvg-id="Retro Plus 70-80 Oldhits" tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png" group-title="MUSICA", Retro Plus 70-80 Oldhits
+http://planettvweb.com:8091/Luissilvera/luis92760641/41484
+
+#EXTINF:-1 tvg-id="Now 80  Oldhits" tvg-logo="https://i.discogs.com/MJcYF2PdP-X_bQQesQ7aSiW0fj2IFBcBHu7dbkrrE1I/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjI2/NjctMTU2MjU1OTMx/OC0yOTk5LmpwZWc.jpeg" group-title="MUSICA", Now 80  Oldhits
+http://planettvweb.com:8091/Luissilvera/luis92760641/41488
+
